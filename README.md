@@ -6,7 +6,7 @@ About
 
 ## How to open 
 
-- Tap on this link : 
+- Tap on this link : https://ashhdubey.github.io/YoutubeClone/
 - And you are able to experience it .
 
   
